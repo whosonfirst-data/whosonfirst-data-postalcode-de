@@ -16,7 +16,7 @@
         102191581,
         85633111,
         404227579,
-        101810071,
+        101907587,
         102063775
     ],
     "wof:breaches":[],
@@ -30,7 +30,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063775,
-            "locality_id":101810071,
+            "locality_id":101907587,
             "macrocounty_id":404227579,
             "postalcode_id":421238289,
             "region_id":85682513
@@ -39,7 +39,7 @@
     "wof:id":421238289,
     "wof:lastmodified":1474569604,
     "wof:name":"58840",
-    "wof:parent_id":101810071,
+    "wof:parent_id":101907587,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-de",
     "wof:superseded_by":[],

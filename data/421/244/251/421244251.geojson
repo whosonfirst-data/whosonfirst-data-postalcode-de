@@ -16,7 +16,7 @@
         102191581,
         85633111,
         404227565,
-        101748543,
+        101905935,
         102063461
     ],
     "wof:breaches":[],
@@ -30,7 +30,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063461,
-            "locality_id":101748543,
+            "locality_id":101905935,
             "macrocounty_id":404227565,
             "postalcode_id":421244251,
             "region_id":85682571
@@ -39,7 +39,7 @@
     "wof:id":421244251,
     "wof:lastmodified":1474569613,
     "wof:name":"90402",
-    "wof:parent_id":101748543,
+    "wof:parent_id":101905935,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-de",
     "wof:superseded_by":[],

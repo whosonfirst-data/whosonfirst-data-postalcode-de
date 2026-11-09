@@ -15,7 +15,7 @@
         85682555,
         102191581,
         85633111,
-        101806409,
+        101906089,
         102064015
     ],
     "wof:breaches":[],
@@ -29,7 +29,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102064015,
-            "locality_id":101806409,
+            "locality_id":101906089,
             "postalcode_id":421233577,
             "region_id":85682555
         }
@@ -37,7 +37,7 @@
     "wof:id":421233577,
     "wof:lastmodified":1474569597,
     "wof:name":"27432",
-    "wof:parent_id":101806409,
+    "wof:parent_id":101906089,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-de",
     "wof:superseded_by":[],
